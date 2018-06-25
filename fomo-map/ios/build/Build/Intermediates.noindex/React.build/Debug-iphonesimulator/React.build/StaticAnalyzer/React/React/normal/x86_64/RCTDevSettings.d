@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
