@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_98608b4db91d61af5105b6f8c62eec6a5da4e0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_02b8448c41c45e06cc901311587eff441eb2bf3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_927ee9ccc510b3ba987d4262e01d190597343a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1751a1d7d692ad62a5777e57070c2f4a961842b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/fomomap/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75ba91c1045635d389a825d36ee9944efd2b39a4">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/fomomap-react-native-navigation-unspecified_c06c3370226ed1b008516404dc6397bfa72dc18c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a2bf6c89f5c6c65e28701a011425b4351e103353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_dedb7c65176eb70360f68a201366c625d025ae07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_18ee037fb418e0c50ee583009e541a5467e6e455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_5103d841f2b7bff0ccc7781ef365fb919fc7ce07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_bd377c655407a2e4e86fc38571f5e6d475765e6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_8aa6d3fe388a9512f87b26851c79009118467959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_27acf4f2af3d3aa5d4ac1dcff47128027b299ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_68651930af251f3a90d96cf8bb3b89473d348843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_cef2e8568b5e0c4cdf8a5ca045ceb3740daf02f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_dabeb784a5b33f8036ea0fadc245e698604abe2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_db3b1dcabc886736ec9e8e292ec73dace1aafc20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_e559f66a903a2d4ec2b215445f4ce15c1307f1a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_18c46feaabd53fc3cbc74cf65acefef6463b148b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e7ca2b99737df5ad91aa9af00526e8504c545626.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_36a1a96fb6e41b9acd2c3cb0b7078643de6c9dd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/fomomap/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/fomomap-react-native-vector-icons-unspecified_c5e471bf48befe5adef1b6684405543c6cb61a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_8d68cd875d7bdd4765b7635af4d4a7f1b5f5d670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_026257e51c11bf898b5dee78a082a37425db50cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6b35774981b361afc55a840591bce46f5252b295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_4a60e72748c8ca84a608e6c50b3fbcd2c2a0fdd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_9ca3aae99cc1dd79e4cc10fd67f054b65925adbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_b0a97a70dbfe499140fe73832fece1f22583fc43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_32aba4442aae0767a624d4ff2d984b30d00cdb89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_6c217d54ed2643ac4dc7abbe1220c621f1f3dbb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_2e3b9e0e40c630a1db5f12809a1acb26b0830ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_3fcfa5b3529615c9ccf2010e93e28c90d7a2d43b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_7b3b076d45609ad1a539942eb48f779dfe6ab66f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_5027fa45746497b02c95d1d65705e4d0b76f8a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_15852139393bcfa9edaf928b2c151215b262dcc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_93f1af9403c0a9650dc8cc550d4f2a30dc08db97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_0dbaa843e19a47c3d85b384f9bb3100a9c456a70.jar" />
+    </item>
+
+</items>

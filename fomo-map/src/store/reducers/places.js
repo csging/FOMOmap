@@ -1,13 +1,11 @@
 import {
     ADD_PLACE,
-    DELETE_PLACE,
-    SELECT_PLACE,
-    DESELECT_PLACE
+    DELETE_PLACE
   } from "../actions/actionTypes";
   
   const initialState = {
     places: [],
-    selectedPlace: null
+   
   };
   
   const reducer = (state = initialState, action) => {
@@ -16,7 +14,8 @@ import {
         return {
           ...state,
           places: state.places.concat({
-            key: Math.random(),
+            //just added to toString to get rid of yellow error
+            key: Math.random().toString(),
             name: action.placeName,
             image: {
               uri:
@@ -28,21 +27,9 @@ import {
         return {
           ...state,
           places: state.places.filter(place => {
-            return place.key !== state.selectedPlace.key;
+            return place.key !== action.placeKey;
           }),
-          selectedPlace: null
-        };
-      case SELECT_PLACE:
-        return {
-          ...state,
-          selectedPlace: state.places.find(place => {
-            return place.key === action.placeKey;
-          })
-        };
-      case DESELECT_PLACE:
-        return {
-          ...state,
-          selectedPlace: null
+          
         };
       default:
         return state;
