@@ -65,6 +65,7 @@ local.properties
 *.iml
 fomo-map/android/app/build
 fomo-map/android/.idea
+android/app/build
 
 # Node
 node_modules
