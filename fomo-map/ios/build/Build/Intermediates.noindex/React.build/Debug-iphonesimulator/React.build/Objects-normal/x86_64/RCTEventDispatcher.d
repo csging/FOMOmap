@@ -1,14 +1,14 @@
 dependencies: \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTEventDispatcher.m \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Profiler/RCTProfile.h
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTEventDispatcher.m \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Profiler/RCTProfile.h

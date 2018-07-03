@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.m \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptExecutor.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.m \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptExecutor.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

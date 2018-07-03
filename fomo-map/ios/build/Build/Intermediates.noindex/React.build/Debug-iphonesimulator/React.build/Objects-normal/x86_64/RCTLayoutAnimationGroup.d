@@ -1,17 +1,17 @@
 dependencies: \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Modules/RCTLayoutAnimationGroup.m \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Modules/RCTLayoutAnimationGroup.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Modules/RCTLayoutAnimation.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Modules/RCTLayoutAnimationGroup.m \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Modules/RCTLayoutAnimationGroup.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Modules/RCTLayoutAnimation.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/larrypaul/code/fomomap/fomo-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTVersion.m \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/Base/RCTVersion.h
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTVersion.m \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/Base/RCTVersion.h

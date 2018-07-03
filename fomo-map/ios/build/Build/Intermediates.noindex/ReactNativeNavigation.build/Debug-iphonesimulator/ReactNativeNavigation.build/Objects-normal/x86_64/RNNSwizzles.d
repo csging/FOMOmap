@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native-navigation/ios/RNNSwizzles.m \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native-navigation/ios/RNNSwizzles.h
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native-navigation/ios/RNNSwizzles.m \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native-navigation/ios/RNNSwizzles.h

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/ReactCommon/jschelpers/JSCWrapper.cpp \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/ReactCommon/jschelpers/JSCWrapper.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/logging.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/log_severity.h \
-  /Users/elizabethmartinez/Desktop/bootcamp/fomomap/fomo-map/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/vlog_is_on.h
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/ReactCommon/jschelpers/JSCWrapper.cpp \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/ReactCommon/jschelpers/JSCWrapper.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/logging.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/log_severity.h \
+  /Users/larrypaul/code/fomomap/fomo-map/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/vlog_is_on.h
