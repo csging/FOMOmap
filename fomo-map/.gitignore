@@ -63,7 +63,8 @@ buck-out
 .gradle
 local.properties
 *.iml
-/android/app/build
+fomo-map/android/app/build
+fomo-map/android/.idea
 
 # Node
 node_modules
